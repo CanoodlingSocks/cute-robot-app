@@ -1,4 +1,4 @@
-## About Project Nebula
+## About This Project
 I created this project as a means for me to develop my skills as a fresh developer, while also exploring and learning mobile app development, using React Native. 
 
 So, I decided to go on a journey to create an app about something I really like - __Robots__!
