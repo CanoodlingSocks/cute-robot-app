@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 2160 1620" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Head">
+<path d="M860.582 412.849C860.582 298.147 981.413 205.163 1096.84 205.163C1212.27 205.163 1344.52 298.147 1344.52 412.849C1344.52 527.551 1208.64 597.394 1093.21 597.394C977.783 597.394 860.582 527.551 860.582 412.849Z" fill="#dedede" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.15015"/>
+<path d="M891.754 410.17C888.716 315.125 985.587 269.187 985.587 269.187L1096.35 315.756L1203.86 269.187C1203.86 269.187 1297.05 297.145 1301.75 410.17C1303.05 441.332 1300.51 484.242 1258.43 519.597C1212.69 558.033 1131.89 568.903 1096.84 568.903C1062.87 568.903 976.041 561.521 934.793 524.757C894.343 488.705 892.783 442.383 891.754 410.17Z" fill="#2a2a2a" fill-rule="nonzero" opacity="1" stroke="none"/>
+<g opacity="1">
+<path d="M976.651 392.212C976.651 392.212 976.433 352.826 1009.49 353.212C1039.55 353.564 1039.55 392.212 1039.55 392.212" fill="none" opacity="1" stroke="#50d5ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.15015"/>
+<path d="M976.651 402.786C976.651 402.786 976.433 442.173 1009.49 441.786C1039.55 441.435 1039.55 402.786 1039.55 402.786" fill="none" opacity="1" stroke="#50d5ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.15015"/>
+</g>
+<g opacity="1">
+<path d="M1149.32 390.591C1149.32 390.591 1149.11 351.205 1182.17 351.591C1212.22 351.942 1212.22 390.591 1212.22 390.591" fill="none" opacity="1" stroke="#50d5ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.15015"/>
+<path d="M1149.32 401.165C1149.32 401.165 1149.11 440.551 1182.17 440.165C1212.22 439.813 1212.22 401.165 1212.22 401.165" fill="none" opacity="1" stroke="#50d5ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.15015"/>
+</g>
+<g opacity="1">
+<path d="M1050.85 468.93C1050.85 468.93 1060.16 478.403 1060.16 487.977C1060.16 497.552 1050.85 507.227 1050.85 507.227" fill="none" opacity="1" stroke="#50d5ee" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.15015"/>
+<path d="M1145.02 468.93C1145.02 468.93 1135.72 478.403 1135.72 487.977C1135.72 497.552 1145.02 507.227 1145.02 507.227" fill="none" opacity="1" stroke="#50d5ee" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.15015"/>
+<path d="M1060.16 494.044C1060.16 494.044 1077.46 509.143 1096.35 509.143C1115.24 509.143 1135.72 494.044 1135.72 494.044" fill="none" opacity="1" stroke="#50d5ee" stroke-linecap="square" stroke-linejoin="round" stroke-width="5.15015"/>
+</g>
+<path d="M1050.85 208.554C1050.85 208.554 1065.08 201.912 1076.82 199.647C1083.1 198.437 1089.99 197.508 1096.35 197.508C1114.63 197.508 1141.13 207.072 1141.13 207.072L1132.9 240.626L1117.92 240.626C1117.92 240.626 1106.72 251.191 1096.35 251.191C1085.99 251.191 1076.47 240.626 1076.47 240.626L1059.81 240.626L1050.85 208.554Z" fill="#dedede" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.15015"/>
+<path d="M904.543 293.402C904.543 293.402 913.946 280.75 922.161 273.138C930.377 265.527 943.651 256.681 943.651 256.681L944.664 274.725L923.785 293.402L904.543 293.402Z" fill="#dedede" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.15015"/>
+<path d="M1293.15 293.402C1293.15 293.402 1283.74 280.75 1275.53 273.138C1267.31 265.527 1254.04 256.681 1254.04 256.681L1253.03 274.725L1273.91 293.402L1293.15 293.402Z" fill="#dedede" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.15015"/>
+</g>
+</svg>

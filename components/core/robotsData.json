@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "model": "3MB-R",
+      "nickname": "EmberBot",
+      "manufacturing_date": "2023-04-28",
+      "broken": false,
+      "active": true
+    },
+    {
+      "id": 2,
+      "model": "5-KY",
+      "nickname": "SkyBot",
+      "manufacturing_date": "2023-04-28",
+      "broken": true,
+      "active": false
+    },
+    {
+      "id": 3,
+      "model": "N0-V4",
+      "nickname": "NovaBot",
+      "manufacturing_date": "2022-09-27",
+      "broken": false,
+      "active": false
+    },
+    {
+      "id": 4,
+      "model": "3CH-0",
+      "nickname": "EchoBot",
+      "manufacturing_date": "2020-05-31",
+      "broken": false,
+      "active": true
+    },
+    {
+      "id": 5,
+      "model": "CHU-66Y",
+      "nickname": "ChubbyBot",
+      "manufacturing_date": "2019-01-22",
+      "broken": false,
+      "active": false
+    }
+  ]

@@ -1,0 +1,12 @@
+[
+    {
+      "name": "Standard Arm",
+      "imageName": "5-KY_Standard_ViewRightArm.svg",
+      "infoText": "This is the standard arm that comes with this model."
+    },
+    {
+      "name": "The Strongman Arm",
+      "imageName": "5-KY_StrongMan_ViewRightArm.svg",
+      "infoText": "The Strongman Arm part is designed for heavier jobs and heavy lifts. Both the arm and claws are made of a really tough steel that can withstand lots of force and high heatlevels. The claws, while sturdy, are at the same time thin which allows for more precision."
+    }
+  ]
